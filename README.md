@@ -1,2 +1,2 @@
 # hello-world
-lab week7: 4th Sep 23
+lab week7
